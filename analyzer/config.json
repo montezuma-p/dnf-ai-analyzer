@@ -1,0 +1,10 @@
+{
+  "output_dir": "/home/montezuma/.bin/data/scripts-data/reports/packages/raw",
+  "analysis": {
+    "include_orphans": true,
+    "include_updates": true,
+    "include_cache": true,
+    "include_dependencies": true,
+    "max_packages_sample": 100
+  }
+}
