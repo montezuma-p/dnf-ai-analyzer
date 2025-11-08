@@ -51,8 +51,8 @@ Este projeto transforma dados brutos de pacotes em **relatórios HTML bonitos e 
 ### 2. Clone o repositório
 
 ```bash
-git clone https://github.com/montezuma-p/packages.git
-cd packages
+it clone https://github.com/montezuma-p/dnf-ai-analyzer
+cd dnf-ai-analyzer
 ```
 
 ### 3. Instale as dependências
